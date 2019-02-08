@@ -60,3 +60,7 @@ end
 
 end
 
+
+def play(my_songs)
+  
+  
