@@ -36,3 +36,7 @@ def list(songs)
 end 
 
 
+def play(my_songs)
+  
+  
+
